@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on cs
+- 🔭 I’m currently working on cs classes
 - 🌱 I’m currently learning cs
 - 👯 I’m looking to collaborate on cs
 - 🤔 I’m looking for help with cs
