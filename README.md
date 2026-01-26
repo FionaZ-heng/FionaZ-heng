@@ -1,9 +1,25 @@
-## Hi, I'm Fiona(Yutong) 👋
-
+## Hi, I'm Fiona (Yutong) 👋
 
 🎓 Computer Science @ Northeastern University  
-💻 Interested in systems, software design, and AI  
-📚 Currently taking CS3100 (Object Oriented Design) / CS3650 (Computer Systems)
-🌱 Working with Java, C, and low-level systems
+📍 Boston, MA  
 
-📫 Reach me at: zheng.yuton@northeastern.edu
+💻 Interests:
+- Systems & low-level programming
+- Software design and architecture
+- Building reliable, well-tested software
+
+📚 Coursework:
+- CS3100: Software Design
+- CS3650: Computer Systems
+
+🛠️ Technical Skills:
+- Languages: Java, C
+- Concepts: OOP, abstraction, testing, memory, concurrency (learning)
+- Tools: Git, GitHub, Gradle, JUnit, LateX, Linux, VScode
+
+📌 Featured Projects:
+- CS3100 course projects (object-oriented design, testing)
+- CS3650 labs (systems programming in C)
+
+📫 Contact:
+- Email: zheng.yuton@northeastern.edu
