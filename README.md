@@ -1,16 +1,9 @@
-## Hi there 👋
+## Hi, I'm Fiona(Yutong) 👋
 
-<!--
-**FionaZ-heng/FionaZ-heng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Computer Science @ Northeastern University  
+💻 Interested in systems, software design, and AI  
+📚 Currently taking CS3100 (Object Oriented Design) / CS3650 (Computer Systems)
+🌱 Working with Java, C, and low-level systems
 
-- 🔭 I’m currently working on cs classes
-- 🌱 I’m currently learning cs
-- 👯 I’m looking to collaborate on cs
-- 🤔 I’m looking for help with cs
-- 💬 Ask me about my poor life
-- 📫 How to reach me: zheng.yuton@northeastern
-- 😄 Pronouns: she
-- ⚡ Fun fact: I have never had nose blood
--->
+📫 Reach me at: zheng.yuton@northeastern.edu
