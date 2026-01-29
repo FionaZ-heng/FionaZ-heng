@@ -9,7 +9,7 @@
 - Building reliable, well-tested software
 
 📚 Coursework:
-- CS3100: Software Design
+- CS3100: Object Oriented Design
 - CS3650: Computer Systems
 
 🛠️ Technical Skills:
