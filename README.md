@@ -14,7 +14,7 @@
 
 🛠️ Technical Skills:
 - Languages: Java, C, Python
-- Concepts: OOP, abstraction, testing, memory, concurrency (learning)
+- Concepts: OOD, abstraction, testing, memory, concurrency (learning)
 - Tools: Git, GitHub, Gradle, JUnit, LateX, Linux, VScode
 
 📌 Featured Projects:
