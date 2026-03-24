@@ -13,7 +13,7 @@
 - CS3650: Computer Systems
 
 🛠️ Technical Skills:
-- Languages: Java, C, Python
+- Languages: Java, C, Python, JavaScript
 - Concepts: OOD, abstraction, testing, memory, concurrency (learning)
 - Tools: Git, GitHub, Gradle, JUnit, LateX, Linux, VScode
 
